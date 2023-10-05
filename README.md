@@ -1,1 +1,1 @@
-# myproject
+this is my first session on git
